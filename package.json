@@ -1,0 +1,13 @@
+{
+    "name": "jason-merge",
+    "version": "0.0",
+    "description": "merging multiple json files into single json file",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ezhil K <krishezhil911@gmail.com>",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
